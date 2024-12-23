@@ -1,26 +1,26 @@
 ### Ferramentas
 
-Kali Linux
-setoolkit
-editor de texto linux
+- Kali Linux
+- setoolkit
+- editor de texto linux
 
 ### Configurando o Phishing no Kali Linux:
 
-Acesso root: ```sudo su```
+- Acesso root: ```sudo su```
 
-Iniciando o setoolkit: ```setoolkit```
+- Iniciando o setoolkit: ```setoolkit```
 
-Tipo de ataque: ```Social-Engineering Attacks```
+- Tipo de ataque: ```Social-Engineering Attacks```
 
-Vetor de ataque: ```Web Site Attack Vectors```
+- Vetor de ataque: ```Web Site Attack Vectors```
 
-Método de ataque: ```Credential Harvester Attack Method```
+- Método de ataque: ```Credential Harvester Attack Method```
 
-Método de ataque: ```Site Cloner```
+- Método de ataque: ```Site Cloner```
 
-Obtendo o endereço da máquina: ```ifconfig```
+- Obtendo o endereço da máquina: ```ifconfig```
 
-URL para clone: http://www.facebook.com
+- URL para clone: http://www.facebook.com
 
 ### Resutados antes de resolver:
 
@@ -28,9 +28,9 @@ URL para clone: http://www.facebook.com
 
 ### Como resolver
 
-Issue que achei para resolver o problema: https://github.com/cassiano-dio/cibersecurity-desafio-phishing/issues/95
+- Issue que achei para resolver o problema: https://github.com/cassiano-dio/cibersecurity-desafio-phishing/issues/95
 
-Remover script de segurança da pagina copiada: https://github.com/RLLKLLSS/cibersecurity-desafio-phishing/blob/master/README.md
+- Remover script de segurança da pagina copiada: https://github.com/RLLKLLSS/cibersecurity-desafio-phishing/blob/master/README.md
 
 #### Reexecutando após seguir os passos acima
 
@@ -56,13 +56,13 @@ Remover script de segurança da pagina copiada: https://github.com/RLLKLLSS/cibe
     
       - Por padrão, a pasta compartilhada estará em /media/sf_<nome_da_pasta>.
 
-Método de ataque: Custom Import
+- Método de ataque: Custom Import
 
-Pagina copiada para o diretorio interno: /media/sf_satander
+- Pagina copiada para o diretorio interno: /media/sf_satander
 
-De onde copiar: Copy the entire folder
+- De onde copiar: Copy the entire folder
 
-URL do site importado: www.facebook.com
+- URL do site importado: www.facebook.com
 
 ### Resultado após resolver:
 
